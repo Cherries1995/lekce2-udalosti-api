@@ -121,3 +121,11 @@ li {
 	color: black;
 	border-color: blue;
 }
+
+.odstavec{
+    font-size: 16px;
+}
+
+.cerveny{
+	color: red;
+}
